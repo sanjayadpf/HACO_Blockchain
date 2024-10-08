@@ -1,0 +1,8 @@
+#requirements
+solcx
+numpy
+transforms3d
+web3
+hexbytes
+
+#you will also have to run setup.py to get the proper solc version
